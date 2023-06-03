@@ -25,6 +25,7 @@ namespace ariel
     // Get the size of the container
     size_t MagicalContainer::size() const
     {
+        
         return (size_t)sizeOfContainer;
     }
 
